@@ -68,8 +68,11 @@ Quote: "Hack the planet, but ethically 🌐"
   <img alt="Cyber Snake" src="https://raw.githubusercontent.com/JitSurani/JitSurani/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
+### 🧬 3D Contributions
 
-> **Note**: To make the snake appear, you need to setup the GitHub Action from [Platane/snk](https://github.com/Platane/snk). Let me know, I can guide you or generate it.
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ---
 
