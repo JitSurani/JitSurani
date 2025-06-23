@@ -68,22 +68,16 @@ Quote: "Hack the planet, but ethically 🌐"
   <img alt="Cyber Snake" src="https://raw.githubusercontent.com/JitSurani/JitSurani/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
-### 🧬 3D Contributions
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/JitSurani">
+  <a href="https://www.linkedin.com/in/jit-surani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:jitsurani2110@example.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
