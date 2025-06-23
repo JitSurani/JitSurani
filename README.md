@@ -65,7 +65,7 @@ Quote: "Hack the planet, but ethically 🌐"
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JitSurani/JitSurani/output/github-contribution-grid-snake-hacker.svg" alt="Hacker Snake Animation" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/JitSurani/JitSurani/output/github-contribution-grid-snake.svg">
 </p>
 
 > **Note**: To make the snake appear, you need to setup the GitHub Action from [Platane/snk](https://github.com/Platane/snk). Let me know, I can guide you or generate it.
