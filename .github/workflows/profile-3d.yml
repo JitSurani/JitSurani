@@ -1,23 +1,26 @@
-name: Generate 3D Snake
+name: Generate 3D Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight
+    - cron: "0 0 * * *" # runs daily at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate 3D profile contribution
+    name: Generate 3D contribution graph
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@v0.7.1
+
+      - name: Generate 3D Profile
+        uses: yoshi389111/github-profile-3d-contrib@main
         with:
           output_dir: profile-3d-contrib
+
       - name: Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git commit -m "Generated 3D contribution"
+          git add profile-3d-contrib
+          git commit -m "Generated 3D profile contribution graph"
           git push
